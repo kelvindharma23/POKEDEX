@@ -1,0 +1,2 @@
+# POKEDEX
+make pokedex app
